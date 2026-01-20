@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Eu sou o João Slengman e tenho 19 anos.<br><br>- 🔭 Sou estudante em Análise e Desenvolvimento de Sistemas.<br>- 📚 Atualmente estou aprendendo sobre web development e backend.<br>- ⚡ No meu tempo livre estudo programação, jogo, leio, passo tempo com amigos, pratico pintura, e ouço música.</p>
+<p align="left">Eu sou o João Slengman e tenho 29 anos.<br><br>- 🔭 Sou estudante em Análise e Desenvolvimento de Sistemas.<br>- 📚 Atualmente estou aprendendo sobre web development e backend.<br>- ⚡ No meu tempo livre estudo programação, jogo, leio, passo tempo com amigos, pratico pintura, e ouço música.</p>
 
 ###
 
