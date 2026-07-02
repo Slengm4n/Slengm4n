@@ -14,9 +14,6 @@ Sou o João, estudante de Análise e Desenvolvimento de Sistemas (Fatec), com in
   <a href="https://www.linkedin.com/in/joao-slengman/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 ## 🛠️ Language and Tools
