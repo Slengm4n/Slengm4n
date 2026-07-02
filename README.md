@@ -21,8 +21,9 @@ Sou o João, estudante de Análise e Desenvolvimento de Sistemas (Fatec), com in
 **Core:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,python,git,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql,js,html,css,python,git,linux,docker" />
 </p>
+
 
 **Design:**
 
