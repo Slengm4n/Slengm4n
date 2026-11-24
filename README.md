@@ -9,7 +9,7 @@
 
 <a href="https://www.linkedin.com/in/joao-slengman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- TODO: troque SEU_USUARIO pelo seu @ -->
-<a href="https://instagram.com/@slengm4n" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/slengm4n" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://kolae.online" target="_blank"><img src="https://img.shields.io/badge/Kolae-0084FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Slengm4n&style=for-the-badge&color=0D1117&label=VISITAS" />
 
